@@ -1,0 +1,19 @@
+{
+  "user": [
+    {
+      "name": "Muruga",
+      "mail": "muruga123@gmail.com",
+      "password": "12345",
+      "address": "12345",
+      "id": "1c6f"
+    },
+    {
+      "id": "f654",
+      "name": "Munu mr",
+      "location": "Nalli",
+      "address": "1/485 East Street Nalli",
+      "mail": "mystery123@gmail.com",
+      "password": "123456789"
+    }
+  ]
+}

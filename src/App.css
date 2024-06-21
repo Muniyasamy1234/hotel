@@ -1,0 +1,187 @@
+
+.App {
+  text-align: center;
+}
+
+.App-logo {
+  height: 40vmin;
+  pointer-events: none;
+}
+
+@media (prefers-reduced-motion: no-preference) {
+  .App-logo {
+    animation: App-logo-spin infinite 20s linear;
+  }
+}
+
+.App-header {
+  background-color: #282c34;
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  font-size: calc(10px + 2vmin);
+  color: white;
+}
+
+.App-link {
+  color: #61dafb;
+}
+
+@keyframes App-logo-spin {
+  from {
+    transform: rotate(0deg);
+  }
+
+  to {
+    transform: rotate(360deg);
+  }
+}
+
+
+.backcolor{
+  background-color:#3b7ab5;;
+}
+
+.home {
+  background-image: url("https://blog.radissonblu.com/wp-content/uploads/2013/12/shutterstock_3859923041.jpg");
+  background-repeat: no-repeat;
+  background-size: cover;
+  width: 100%;
+  height: 700px;
+}
+
+nav {
+  background-color: black;
+}
+
+nav a {
+  color: white;
+}
+
+.navbar-nav {
+  display: flex;
+  align-items: center;
+}
+
+.first {
+  background-color: blue;
+}
+
+.home {
+  display: flex;
+  color: white;
+  justify-content: space-between;
+}
+
+h2 {
+  margin-top: 212px;
+  width: 60%;
+}
+
+h1 {
+  padding-top: 100px;
+}
+
+h3 {
+  width: 60%;
+}
+
+
+
+
+
+
+.boxs {
+  text-align: center;
+  display: flex;
+  justify-content: center;
+}
+
+.boxe {
+  text-align: center;
+  height: 100vh;
+  background: rgb(2, 0, 36);
+  background: linear-gradient(90deg, rgba(2, 0, 36, 1) 0%, rgba(90, 90, 150, 1) 0%, rgba(3, 141, 208, 1) 64%, rgba(0, 212, 255, 1) 100%);
+}
+
+.input1 , textarea {
+  margin: 7px;
+  border-radius: 10px;
+  border: 1px solid black;
+  background: rgb(238, 174, 202);
+  background: radial-gradient(circle, rgba(238, 174, 202, 1) 0%, rgba(148, 187, 233, 1) 100%);
+  height: 47px;
+  width: 282px;
+  padding: 5px 18px 6px 13px;
+  font-size: large;
+  font-weight: bold;
+  font-family: 'Zilla Slab';
+
+}
+
+.buttons {
+  border: none;
+  width: 80px;
+  height: 50px;
+  border-radius: 10px;
+  background: rgb(238, 174, 202);
+  background: radial-gradient(circle, rgba(238, 174, 202, 1) 0%, rgba(148, 187, 233, 1) 100%);
+  font-size: large;
+  font-weight: bold;
+  font-family: 'Zilla Slab';
+}
+
+
+.icon{
+  display: flex;
+  justify-content: space-between;
+}
+p{
+  text-indent: 0%;
+}
+
+.welcom{
+  padding-top: 0px;
+}
+
+.hotels{
+  display: flex;
+  justify-content: space-between;
+}
+
+.heading{
+  display: flex;
+  justify-content: space-between;
+  margin-top: 5px;
+  margin-bottom: 30px;
+}
+
+.logoutbtn{
+  width: 123px;
+  height: 37px;
+  border: none;
+}
+
+.lshotel{
+  padding-top: 34px;
+}
+
+.footers{
+  background-color:black;
+}
+
+footer a{
+  text-decoration: none;
+  color: white;
+}
+
+.caaar{
+  border: none;
+}
+
+.cards{
+  background: linear-gradient(90deg, rgba(2, 0, 36, 1) 0%, rgba(90, 90, 150, 1) 0%, rgba(3, 141, 208, 1) 64%, rgba(0, 212, 255, 1) 100%);
+
+}
